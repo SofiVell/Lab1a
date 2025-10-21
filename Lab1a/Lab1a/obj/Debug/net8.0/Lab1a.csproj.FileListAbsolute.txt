@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Lab1a\Lab1a\obj\Debug\net8.0\Lab1a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lab1a\Lab1a\obj\Debug\net8.0\Lab1a.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lab1a\Lab1a\obj\Debug\net8.0\Lab1a.AssemblyInfo.cs
+C:\Users\user\source\repos\Lab1a\Lab1a\obj\Debug\net8.0\Lab1a.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab1a\Lab1a\bin\Debug\net8.0\Lab1a.exe
+C:\Users\user\source\repos\Lab1a\Lab1a\bin\Debug\net8.0\Lab1a.deps.json
+C:\Users\user\source\repos\Lab1a\Lab1a\bin\Debug\net8.0\Lab1a.runtimeconfig.json
+C:\Users\user\source\repos\Lab1a\Lab1a\bin\Debug\net8.0\Lab1a.dll
+C:\Users\user\source\repos\Lab1a\Lab1a\bin\Debug\net8.0\Lab1a.pdb
+C:\Users\user\source\repos\Lab1a\Lab1a\obj\Debug\net8.0\Lab1a.dll
+C:\Users\user\source\repos\Lab1a\Lab1a\obj\Debug\net8.0\refint\Lab1a.dll
+C:\Users\user\source\repos\Lab1a\Lab1a\obj\Debug\net8.0\Lab1a.pdb
+C:\Users\user\source\repos\Lab1a\Lab1a\obj\Debug\net8.0\Lab1a.genruntimeconfig.cache
+C:\Users\user\source\repos\Lab1a\Lab1a\obj\Debug\net8.0\ref\Lab1a.dll
